@@ -1,0 +1,14 @@
+Y:\Projects\KataBankOCR\KataBankOCR.Tests\KataBankOCR.Tests\obj\Debug\KataBankOCR.Tests.csprojResolveAssemblyReference.cache
+Y:\Projects\KataBankOCR\KataBankOCR.Tests\KataBankOCR.Tests\bin\Debug\KataBankOCR.Tests.dll
+Y:\Projects\KataBankOCR\KataBankOCR.Tests\KataBankOCR.Tests\bin\Debug\KataBankOCR.Tests.pdb
+Y:\Projects\KataBankOCR\KataBankOCR.Tests\KataBankOCR.Tests\bin\Debug\KataBankOCR.Logic.dll
+Y:\Projects\KataBankOCR\KataBankOCR.Tests\KataBankOCR.Tests\bin\Debug\KataBankOCR.Logic.pdb
+Y:\Projects\KataBankOCR\KataBankOCR.Tests\KataBankOCR.Tests\obj\Debug\KataBankOCR.Tests.dll
+Y:\Projects\KataBankOCR\KataBankOCR.Tests\KataBankOCR.Tests\obj\Debug\KataBankOCR.Tests.pdb
+\\Mac\Dropbox\Projects\KataBankOCR\KataBankOCR.Tests\bin\Debug\KataBankOCR.Tests.dll
+\\Mac\Dropbox\Projects\KataBankOCR\KataBankOCR.Tests\bin\Debug\KataBankOCR.Tests.pdb
+\\Mac\Dropbox\Projects\KataBankOCR\KataBankOCR.Tests\bin\Debug\KataBankOCR.Logic.dll
+\\Mac\Dropbox\Projects\KataBankOCR\KataBankOCR.Tests\bin\Debug\KataBankOCR.Logic.pdb
+\\Mac\Dropbox\Projects\KataBankOCR\KataBankOCR.Tests\obj\Debug\KataBankOCR.Tests.csprojResolveAssemblyReference.cache
+\\Mac\Dropbox\Projects\KataBankOCR\KataBankOCR.Tests\obj\Debug\KataBankOCR.Tests.dll
+\\Mac\Dropbox\Projects\KataBankOCR\KataBankOCR.Tests\obj\Debug\KataBankOCR.Tests.pdb

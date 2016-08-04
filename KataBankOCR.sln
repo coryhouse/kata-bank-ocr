@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KataBankOCR.Logic", "KataBankOCR.Logic\KataBankOCR.Logic.csproj", "{D467B927-837A-4397-8D5D-E75F6524D6BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KataBankOCR.Tests", "KataBankOCR.Tests\KataBankOCR.Tests.csproj", "{2F6B5B7A-A174-48C9-AFAB-0F70CC3AF2E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D467B927-837A-4397-8D5D-E75F6524D6BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D467B927-837A-4397-8D5D-E75F6524D6BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D467B927-837A-4397-8D5D-E75F6524D6BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D467B927-837A-4397-8D5D-E75F6524D6BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F6B5B7A-A174-48C9-AFAB-0F70CC3AF2E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F6B5B7A-A174-48C9-AFAB-0F70CC3AF2E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F6B5B7A-A174-48C9-AFAB-0F70CC3AF2E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F6B5B7A-A174-48C9-AFAB-0F70CC3AF2E9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

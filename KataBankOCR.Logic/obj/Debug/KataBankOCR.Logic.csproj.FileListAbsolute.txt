@@ -1,0 +1,10 @@
+Y:\Projects\KataBankOCR\KataBankOCR.Logic\obj\Debug\KataBankOCR.Logic.csprojResolveAssemblyReference.cache
+Y:\Projects\KataBankOCR\KataBankOCR.Logic\bin\Debug\KataBankOCR.Logic.dll
+Y:\Projects\KataBankOCR\KataBankOCR.Logic\bin\Debug\KataBankOCR.Logic.pdb
+Y:\Projects\KataBankOCR\KataBankOCR.Logic\obj\Debug\KataBankOCR.Logic.dll
+Y:\Projects\KataBankOCR\KataBankOCR.Logic\obj\Debug\KataBankOCR.Logic.pdb
+\\Mac\Dropbox\Projects\KataBankOCR\KataBankOCR.Logic\bin\Debug\KataBankOCR.Logic.dll
+\\Mac\Dropbox\Projects\KataBankOCR\KataBankOCR.Logic\bin\Debug\KataBankOCR.Logic.pdb
+\\Mac\Dropbox\Projects\KataBankOCR\KataBankOCR.Logic\obj\Debug\KataBankOCR.Logic.csprojResolveAssemblyReference.cache
+\\Mac\Dropbox\Projects\KataBankOCR\KataBankOCR.Logic\obj\Debug\KataBankOCR.Logic.dll
+\\Mac\Dropbox\Projects\KataBankOCR\KataBankOCR.Logic\obj\Debug\KataBankOCR.Logic.pdb
